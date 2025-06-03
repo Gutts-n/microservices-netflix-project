@@ -9,5 +9,5 @@ Catalog Administration - Codeflix - Python
 * [x] When creating a new category, an identifier must be generated in UUID format.
 * [x] When creating a category, the fields `id`, `description`, and `isActive` are not required.
 * [x] If the `isActive` property is not provided, it must default to `true`.
-* [ ] Test `__str__` - Exercise
-* [ ] Test `__repr__` - Exercise
+* [x] Test `__str__` - Exercise
+* [x] Test `__repr__` - Exercise
